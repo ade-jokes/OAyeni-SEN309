@@ -27,9 +27,13 @@ This repository showcases my ability to:
 
 SEN-306/
 │
+
 ├── assignments/ # Weekly or topic-based tasks
+
 ├── projects/ # Major implementations
+
 ├── notes/ # Key concepts and summaries
+
 └── README.md
 
 
